@@ -1,3 +1,5 @@
 fastapi
 uvicorn[standard]
 ollama==0.6.1
+boto3==1.42.9
+python-dotenv==1.2.1
